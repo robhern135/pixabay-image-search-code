@@ -1,7 +1,7 @@
 import React from 'react'
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
-import App from '../App';
-import Error from './Error';
+import App from './App';
+import Error from './components/Error';
 
 const Router = () => (
   <BrowserRouter>
