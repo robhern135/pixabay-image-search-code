@@ -1,4 +1,5 @@
 {
+  "homepage": "https://robhern135.github.io/pixabay-image-search-code/",
   "name": "pixabay-image-search-code",
   "version": "0.1.0",
   "private": true,
@@ -7,6 +8,7 @@
     "material-ui": "^0.20.1",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
+    "react-router-dom": "^4.3.1",
     "react-scripts": "1.1.4"
   },
   "scripts": {
